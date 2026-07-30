@@ -1,5 +1,7 @@
 # 0001 — Disable scheduled Localazy sync on our iOS/Android forks; keep SAS string sync
 
+**Date:** 2026-07-30
+
 ## Context
 
 Both `the-forest-network-ios` and `the-forest-network-android` are copies of `element-hq/element-x-ios` / `element-hq/element-x-android`, not native GitHub forks, but they retain the full upstream commit history. Neither repo has ever pulled/merged upstream changes since being created.

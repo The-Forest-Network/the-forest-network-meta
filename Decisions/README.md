@@ -13,7 +13,7 @@ Small, obvious, or easily-reversible choices don't need a record.
 
 ## Format
 
-One file per decision: `NNNN-short-title.md`, numbered sequentially. Each one covers:
+One file per decision: `NNNN-short-title.md`, numbered sequentially. Each one starts with a **Date** (the date the decision was made, `YYYY-MM-DD`) right under the title, then covers:
 
 - **Context** — what prompted this, what we found.
 - **Decision** — what we chose to do.
