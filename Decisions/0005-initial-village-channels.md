@@ -16,9 +16,14 @@ Current spaces we have are Pangaea and Oceania.
 
 Current channels we have are:
 
-| Space   | Channel           | Description                                                                                         |
-| ------- | ----------------- | --------------------------------------------------------------------------------------------------- |
-| Pangaea | Pangaea/Technical | Top-level channel for users to report technical issues or to ask technical questions about the apps |
+| Space   | Channel                               | Description                                                                                         |
+| ------- | ------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Pangaea | Pangaea/Technical                     | Top-level channel for users to report technical issues or to ask technical questions about the apps |
+| Pangaea | Pangaea/Poetry                        | Top-level channel to post poetry                                                                    |
+| Pangaea | Pangaea/Mycorrhiza Musings            | Top-level channel to post soul and nature musings                                                   |
+| Pangaea | Pangaea/Welcome to the Forest Network | Top-level channel to ask product questions about the apps and offer feedback                        |
+| Pangaea | Pangaea/Dreams of the Earth             | Top-level channel to talk about what people and the earth are dreaming about                            |
+| Pangaea | Pangaea/Trailhead                       | Top-level channel for new villagers to say hi and introduce their region and indigenous lands          |
 
 ## Decision
 
