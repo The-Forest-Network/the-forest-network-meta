@@ -39,6 +39,8 @@ Current channels we have are:
 | Oceania | Oceania/Events in the Village              | Public     | Channel for people in Oceania to talk about events in their area                                    |
 | Oceania | Oceania/The Land                           | Public     | Channel for people in Oceania to talk about their region: birds, plants, ecosystem, etc.            |
 
+---
+
 ## Decision
 
 We will remove the following channels:
@@ -79,6 +81,8 @@ Final channel list:
 | Pangaea | 📣 Pangaea/Council                         | Private    | We need something like this and it's useful                                                          |
 | Pangaea | Pangaea/Mycorrhiza Musings                 | Public     | Valuable channel to have                                                                            |
 | Pangaea | Pangaea/The Land                           | Public     | Could be a good place for people to post pictures and identify plants, animals, etc.                |
+
+---
 
 ## Consequences
 
